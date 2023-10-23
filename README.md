@@ -42,3 +42,4 @@ Optimizing Educational Infrastructure for Sustainable Employment and Future Succ
 | **My course of study prepared me well for employment**                | The respondent's perception of how well their course of study prepared them for employment.                   |
 | **My course of study prepared me well for further studies**           | The respondent's perception of how well their course of study prepared them for further academic studies.      |
 | **Which of these skills/knowledge did your higher education prepare you for?** | A list of skills or knowledge areas that the respondent believes their higher education prepared them for.   |
+| **Employed**                                                        | A indicator (Yes or No) to show if the respondent is employed (Yes) or not (No) based on the number of jobs held since graduation. Not based on current status.
