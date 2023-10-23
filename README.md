@@ -1,7 +1,8 @@
 # Stat-Solver
 Optimizing Educational Infrastructure for Sustainable Employment and Future Success of Nigerian Graduates
 
-<p align=center><font size=10>**Data Set Description**</font></p>
+
+# **Data Set Description**
 
 | Column Name                                                      | Description                                                                                                      |
 |------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
