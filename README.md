@@ -46,4 +46,4 @@ Optimizing Educational Infrastructure for Sustainable Employment and Future Succ
 
 ## Usage
 
-> Comming Sonn
+> Comming Soon
