@@ -46,4 +46,6 @@ Optimizing Educational Infrastructure for Sustainable Employment and Future Succ
 
 ## Usage
 
-> Comming Soon
+```jupyter notebook
+!wget https://raw.githubusercontent.com/EJmpa/Stat-Solver/main/Data_Cleaning/Nigerian_Graduates_Destination_Survey.csv
+```
